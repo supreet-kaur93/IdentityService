@@ -1,0 +1,17 @@
+com\application\identity\service\UserDetailServiceImpl.class
+com\application\identity\enums\UserAccess.class
+com\application\identity\helper\BasicModule.class
+com\application\identity\IdentityService$1.class
+com\application\identity\dao\UserDetailDao.class
+com\application\identity\configuration\IdentityServiceConfiguration.class
+com\application\identity\enums\Role.class
+com\application\identity\request\UserRatingRequest.class
+com\application\identity\resource\IdentityResource.class
+com\application\identity\interfaces\UserDetailInterface.class
+com\application\identity\request\UserAccessRequest.class
+com\application\identity\mapper\UserDetailMapper.class
+com\application\identity\dao\JDBCUserDetailDao.class
+com\application\identity\model\UserDetail.class
+com\application\identity\HealthCheck.class
+com\application\identity\request\UserRequest.class
+com\application\identity\IdentityService.class

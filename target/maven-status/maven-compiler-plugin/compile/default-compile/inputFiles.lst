@@ -1,0 +1,16 @@
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\request\UserRatingRequest.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\configuration\IdentityServiceConfiguration.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\IdentityService.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\dao\UserDetailDao.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\enums\Role.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\mapper\UserDetailMapper.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\interfaces\UserDetailInterface.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\enums\UserAccess.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\helper\BasicModule.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\resource\IdentityResource.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\dao\JDBCUserDetailDao.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\request\UserAccessRequest.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\request\UserRequest.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\HealthCheck.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\model\UserDetail.java
+C:\Users\DEO (S) GURDASPUR\IdentityService\src\main\java\com\application\identity\service\UserDetailServiceImpl.java
